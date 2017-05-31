@@ -3,8 +3,6 @@
 ![Obrázek BigClown Sigfox Detektor Pohybu - krabička](images//sigfox-motion-detector/sigfox-motion-detector-enclosures.png)
 
 
-
-
 ## Úvod
 
 
